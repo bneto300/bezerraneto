@@ -1,3 +1,5 @@
+![Technologies](https://github.com/bneto300/bezerraneto/blob/main/Header.png)
+
 # Hi there, I'm Bezerra Neto! 👋
 
 I'm a Full Stack Developer passionate about technology, design, and video production.
