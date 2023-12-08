@@ -11,10 +11,10 @@ I'm a Full Stack Developer passionate about technology, design, and video produc
 
 ### 📫 Connect with Me:
 
-[LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/bezerra-neto-devdesigner/)) | [Instagram]([your-twitter-link](https://www.instagram.com/bezerranetomkt/))
+[LinkedIn](https://www.linkedin.com/in/bezerra-neto-devdesigner/) | [Instagram](https://www.instagram.com/bezerranetomkt/)
 
 ### 🚀 Projects:
 
-- [Desafio de Software Lógica de Programação Cubos Academy]([link-to-project-1](https://github.com/bneto300/desafio-logica-m01-dds-t14))
+- [Desafio de Software Lógica de Programação Cubos Academy](https://github.com/bneto300/desafio-logica-m01-dds-t14)
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
