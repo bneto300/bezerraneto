@@ -13,7 +13,6 @@ I'm a Full Stack Developer passionate about technology, design, and video produc
 
 ### 🚀 Projects:
 
-- [Project 1](link-to-project-1)
+- [Desafio de Software Lógica de Programação Cubos Academy]([link-to-project-1](https://github.com/bneto300/desafio-logica-m01-dds-t14))
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
-Replace [C
