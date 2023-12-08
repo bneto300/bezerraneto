@@ -1,4 +1,4 @@
-![Technologies]()
+![Technologies](https://github.com/bneto300/bezerraneto/blob/main/Header2.png)
 
 # Hi there, I'm Bezerra Neto! 👋
 
