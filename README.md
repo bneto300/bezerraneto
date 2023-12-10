@@ -14,7 +14,7 @@ I'm a Full Stack Developer passionate about technology, design, and video produc
 [LinkedIn](https://www.linkedin.com/in/bezerra-neto-devdesigner/) | [Instagram](https://www.instagram.com/bezerranetomkt/)
 
 <!-- Technology Icons -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
   <!-- Add more technology badges as needed -->
 </p>
